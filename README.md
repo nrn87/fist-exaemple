@@ -1,1 +1,1 @@
-# fist-exaemple
+# fist-example
